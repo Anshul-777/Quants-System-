@@ -1,0 +1,28 @@
+{
+  "features": [
+    "log_ret",
+    "rvol_5",
+    "rvol_10",
+    "rvol_20",
+    "ewma_vol",
+    "mom_5",
+    "mom_10",
+    "mom_20",
+    "macd",
+    "macd_hist",
+    "price_vwap_dev",
+    "vol_zscore",
+    "hl_range",
+    "vol_ratio",
+    "skew_20",
+    "kurt_20",
+    "rsi_14",
+    "bb_pos",
+    "autocorr_1",
+    "time_sin",
+    "time_cos",
+    "day_of_week",
+    "ticker_id"
+  ],
+  "n_features": 23
+}
